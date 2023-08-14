@@ -4,5 +4,5 @@ A helpful zsh plugin that based on sudo.plugin.zsh; add the prefix of "proxychai
 |Effects|Times of double clicking "ESC"|
 |-----|-----|
 |Adds "proxychains" as prefix | 1 |
-|Adds "sudo" as prefix | 1 |
-|Adds "sudo proxychains" as prefix | 1 |
+|Adds "sudo" as prefix | 2 |
+|Adds "sudo proxychains" as prefix | 3 |
